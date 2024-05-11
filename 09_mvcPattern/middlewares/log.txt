@@ -1,0 +1,13 @@
+GET: /api/users
+GET: /api/users/660b4ed4995f1cf9a0a3bd57
+POST: /api/users
+GET: /api/users
+DELETE: /api/users/660c99a5749201ba8e151d25
+GET: /api/users
+POST: /api/users
+GET: /api/users/660c9a3e749201ba8e151d2a
+GET: /api/users/660c9a3e749201ba8e151d2a
+PATCH: /api/users/660c9a3e749201ba8e151d2a
+PATCH: /api/users/660c9a3e749201ba8e151d2a
+PATCH: /api/users/660c9a3e749201ba8e151d2a
+DELETE: /api/users/660c9a3e749201ba8e151d2a
